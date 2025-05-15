@@ -51,3 +51,17 @@ Git & GitHub
 1)Clone The Repo
 
 2)Run the project => npm run dev 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Default Login Credentials
+
+The backend service is deployed and ready to use. You can log in with the following default accounts:
+
+### Admin Account
+- **Username:** `admin`  
+- **Password:** `P@ssw0rd`
+
+### User Account
+- **Username:** `thomas`  
+- **Password:** `P@ssw0rd`
