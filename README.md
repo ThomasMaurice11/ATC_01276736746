@@ -24,6 +24,7 @@ ASP.NET Core 9/ Entity Framework SQL Server/ JWT (JSON Web Token) for authentica
 ✅ Key API Endpoints Overview
 
 🔐 Authentication (/api/Auth) 
+
 POST /RegisterUser – Register a regular user. 
 
 POST /RegisterAdmin – Register an admin user. 
@@ -31,6 +32,7 @@ POST /RegisterAdmin – Register an admin user.
 POST /login – Login with credentials.
 
 📅 Events (/api/Events) 
+
 GET / – Retrieve all events. 
 
 POST / – Create an event (multipart/form-data; includes Date, Venue, and ImageFile). 
@@ -46,6 +48,7 @@ DELETE /{id} – Delete an event by ID.
 PUT /UpdateTranslations/{id} – Update translations for an event.
 
 📆 Bookings (/api/Booking)
+
 POST / – Book an event by passing eventId as a query param.
 
 DELETE /{id} – Cancel booking by ID.
