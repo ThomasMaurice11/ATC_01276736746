@@ -4,15 +4,24 @@ This is the frontend of the Event Booking Web Application built using modern web
 
 
 🚀 Features
+
 🌙 Dark mode toggle
+
 🌍 Multi-language support (English / Arabic)
 📱 Responsive design
+
 🔐 User authentication (Register/Login)
+
 🏠 Home page with event listings and filter by category
+
 🎟️ Book Now functionality with "Booked" label for booked events
+
 📄 Event Details page with complete info and booking option
+
 🎉 Congratulations page after successful booking
+
 ⚙️ Admin panel with full CRUD for events
+
 🧑‍💼 Role-based access (User/Admin)
 
 
