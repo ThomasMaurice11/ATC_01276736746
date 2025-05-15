@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thoma\\source\\repos\\AreebTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\areebtask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\areebtask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\dtos\\events\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\dtos\\events\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\dtos\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\dtos\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\repositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\models\\eventtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\models\\eventtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|c:\\users\\thoma\\source\\repos\\areebtask\\areebtask\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54E1A5C-DCA8-4D44-8409-0CA86144913B}|AreebTask\\AreebTask.csproj|solutionrelative:areebtask\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\DTOs\\Events\\Events.cs",
+              "RelativeDocumentMoniker": "AreebTask\\DTOs\\Events\\Events.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\DTOs\\Events\\Events.cs",
+              "RelativeToolTip": "AreebTask\\DTOs\\Events\\Events.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:39:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\DTOs\\Auth\\Auth.cs",
+              "RelativeDocumentMoniker": "AreebTask\\DTOs\\Auth\\Auth.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\DTOs\\Auth\\Auth.cs",
+              "RelativeToolTip": "AreebTask\\DTOs\\Auth\\Auth.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:39:25.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "AreebTask\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:36:48.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\BookingService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\BookingService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:36:34.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\IBookingService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:36:22.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolesSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\RolesSeeder.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\RolesSeeder.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\RolesSeeder.cs",
+              "RelativeToolTip": "AreebTask\\Services\\RolesSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:47:46.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\EventService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\EventService.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAwMsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:31:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "AreebTask\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:32:01.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Program.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Program.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Program.cs",
+              "RelativeToolTip": "AreebTask\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAADAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:44:00.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:42:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AreebTask\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AreebTask\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T01:55:10.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AreebTask\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\WeatherForecast.cs",
+              "RelativeToolTip": "AreebTask\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:54:07.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Dockerfile",
+              "RelativeDocumentMoniker": "AreebTask\\Dockerfile",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Dockerfile",
+              "RelativeToolTip": "AreebTask\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-15T01:54:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AreebTask.http",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\AreebTask.http",
+              "RelativeDocumentMoniker": "AreebTask\\AreebTask.http",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\AreebTask.http",
+              "RelativeToolTip": "AreebTask\\AreebTask.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-15T01:54:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\appsettings.json",
+              "RelativeDocumentMoniker": "AreebTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\appsettings.json",
+              "RelativeToolTip": "AreebTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T01:27:07.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "AreebTask\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:35:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Repositories\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\IBookingRepository.cs",
+              "RelativeToolTip": "AreebTask\\Repositories\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:35:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\AuthService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:34:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AreebTask\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:33:16.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\IAuthService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:32:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "AreebTask\\Repositories\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:31:00.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "AreebTask\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:33:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "AreebTask\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:32:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Services\\IEventService.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Services\\IEventService.cs",
+              "RelativeToolTip": "AreebTask\\Services\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:31:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "AreebTask\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwC8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:31:12.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AreebTask\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:29:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\EventTranslation.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Models\\EventTranslation.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\EventTranslation.cs",
+              "RelativeToolTip": "AreebTask\\Models\\EventTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:28:54.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\Event.cs",
+              "RelativeToolTip": "AreebTask\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:28:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\Booking.cs",
+              "RelativeToolTip": "AreebTask\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:28:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AreebTask\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AreebTask\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:28:11.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

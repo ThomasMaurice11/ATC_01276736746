@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "7GeyDCfg02Mg6AuR693XATDmrhD3j14EqxiFyg53Iqc=",
+  "Source": "AreebTask",
+  "BasePath": "_content/AreebTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AreebTask\\wwwroot",
+      "Source": "AreebTask",
+      "ContentRoot": "C:\\Users\\thoma\\source\\repos\\AreebTask\\AreebTask\\wwwroot\\",
+      "BasePath": "_content/AreebTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
