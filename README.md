@@ -4,39 +4,41 @@ This is the frontend of the Event Booking Web Application built using modern web
 
 
 🚀 Features
+🌙 Dark mode toggle
+🌍 Multi-language support (English / Arabic)
+📱 Responsive design
 🔐 User authentication (Register/Login)
-
-🏠 Home page with event listings in grid layout
-
+🏠 Home page with event listings and filter by category
 🎟️ Book Now functionality with "Booked" label for booked events
-
 📄 Event Details page with complete info and booking option
-
 🎉 Congratulations page after successful booking
-
 ⚙️ Admin panel with full CRUD for events
-
 🧑‍💼 Role-based access (User/Admin)
 
-🌙 Dark mode toggle
 
-🌍 Multi-language support (English / Arabic)
 
-📱 Responsive design
 
 🛠️ Technologies Used
 React.js
 
 React Router
 
-Context API / Redux (if used)
+Context API  (if used)
 
-Axios
+protected routing
 
-Tailwind CSS / Bootstrap / CSS Modules (based on what you used)
+ Bootstrap / CSS Modules (based on what you used)
 
 i18next (for multi-language support)
 
-LocalStorage / Cookies (for auth)
+LocalStorage  (for auth)
 
 Git & GitHub
+
+
+
+🖥️ Getting Started
+
+
+1)clone The repo 
+2)npm run dev 
