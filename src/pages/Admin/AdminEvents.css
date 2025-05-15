@@ -1,0 +1,216 @@
+
+.admin-events-page {
+  min-height: 100vh;
+  background: #f8f9fa;
+  padding-bottom: 40px;
+}
+
+.admin-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.admin-title {
+  color: #2c3e50;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.admin-content {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.admin-form-container,
+.admin-list-container {
+  flex: 1;
+  min-width: 300px;
+  background: white;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin-form-container h3,
+.admin-list-container h3 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.admin-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-group label {
+  font-weight: 500;
+  color: #495057;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  padding: 10px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.form-group textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.form-row {
+  display: flex;
+  gap: 15px;
+}
+
+.form-row .form-group {
+  flex: 1;
+}
+
+.form-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.no-events {
+  text-align: center;
+  color: #6c757d;
+  padding: 20px 0;
+}
+
+.events-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.event-card {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 15px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+
+.event-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.event-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.event-details {
+  flex: 1;
+}
+
+.event-details h4 {
+  margin: 0 0 5px 0;
+  color: #2c3e50;
+}
+
+.event-date,
+.event-location,
+.event-price {
+  margin: 2px 0;
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.event-actions {
+  display: flex;
+  gap: 8px;
+}
+
+/* Dark Mode Styles */
+.dark-mode .admin-events-page {
+  background: #121212;
+}
+
+.dark-mode .admin-form-container,
+.dark-mode .admin-list-container {
+  background: #1e1e1e;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode .admin-form-container h3,
+.dark-mode .admin-list-container h3,
+.dark-mode .event-details h4 {
+  color: #f1f1f1;
+}
+
+.dark-mode .admin-form-container h3,
+.dark-mode .admin-list-container h3 {
+  border-color: #444;
+}
+
+.dark-mode .form-group label {
+  color: #ddd;
+}
+
+.dark-mode .form-group input,
+.dark-mode .form-group textarea,
+.dark-mode .form-group select {
+  background: #2d2d2d;
+  border-color: #444;
+  color: #f1f1f1;
+}
+
+.dark-mode .event-card {
+  border-color: #444;
+  background: #2d2d2d;
+}
+
+.dark-mode .event-date,
+.dark-mode .event-location,
+.dark-mode .event-price {
+  color: #aaa;
+}
+
+
+@media (max-width: 768px) {
+  .admin-content {
+    flex-direction: column;
+  }
+  
+  .form-row {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .event-card {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .event-actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+}

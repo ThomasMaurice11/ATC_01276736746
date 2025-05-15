@@ -1,0 +1,108 @@
+/* AuthPages.css */
+.auth-page {
+  min-height: 100vh;
+  background: #f8f9fa;
+}
+
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.auth-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.auth-title {
+  color: #2c3e50;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.auth-subtitle {
+  color: #6c757d;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #495057;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+.form-control:focus {
+  border-color: #80bdff;
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.auth-footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #6c757d;
+}
+
+.auth-footer a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.auth-footer a:hover {
+  text-decoration: underline;
+}
+
+/* Dark Mode Styles */
+.dark-mode .auth-page {
+  background: #121212;
+}
+
+.dark-mode .auth-card {
+  background: #1e1e1e;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode .auth-title,
+.dark-mode .form-group label {
+  color: #f1f1f1;
+}
+
+.dark-mode .auth-subtitle {
+  color: #aaa;
+}
+
+.dark-mode .form-control {
+  background: #2d2d2d;
+  border-color: #444;
+  color: #f1f1f1;
+}
+
+.dark-mode .form-control:focus {
+  border-color: #80bdff;
+  background: #2d2d2d;
+}
+
+.dark-mode .auth-footer {
+  color: #aaa;
+}

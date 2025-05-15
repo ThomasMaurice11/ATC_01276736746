@@ -1,0 +1,171 @@
+{
+  "navbar": {
+   "title": "Events App",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "admin": "Admin Panel"
+  },
+  "home": {
+    "title": "Upcoming Events",
+    "subtitle": "Find your next experience",
+    "noEvents": "No events available",
+    "seeMore": "See More Events",
+    "moreDetails": "More Details",
+    "bookNow": "Book Now",
+    "booked": "Booked",
+    "price": "Price",
+    "bookingSuccess": "Ticket booked successfully!",
+    "bookingFailed": "Failed to book ticket", 
+    "filterByCategory": "Filter by category",
+    "categories": {
+      "all": "All Categories",
+      "tech": "Technology",
+      "art": "Art",
+      "music": "Music",
+      "food": "Food",
+      "business": "Business",
+      "sports": "Sports",
+      "education": "Education"
+    },
+    "noEventsInCategory": "No events found in {category} category",
+    "category": "Category",
+    "priceLabel": "Price"  
+  },
+  "event": {
+    "description": "Description",
+    "information": "Information",
+    "category": "Category",
+    "date": "Date",
+    "time": "Time",
+    "venue": "Venue",
+    "address": "Address"
+  },
+  "notFound": {
+    "message": "Page Not Found",
+    "goHome": "Go to Home Page"
+  },
+  "eventDetails": {
+    "description": "Event Description",
+    "information": "Event Information",
+    "category": "Category",
+    "date": "Date",
+    "time": "Time",
+    "venue": "Venue",
+    "price": "Price",
+    "bookNow": "Book Now",
+    "booked": "Booked",
+    "booking": "Booking...",
+    "addToCalendar": "Add to Calendar",
+    "noDescription": "No description available",
+    "untitled": "Untitled Event",
+    "fetchError": "Failed to load event details",
+    "bookingError": "Failed to book ticket",
+    "bookingSuccess": "Ticket booked successfully!",
+    "notFound": "Event not found"
+  },
+  "adminEvents": {
+    "title": "Events Management",
+    "editTitle": "Edit Event",
+    "currentEvents": "Current Events",
+    "noEvents": "No events found",
+    "edit": "Edit",
+    "delete": "Delete",
+    "new": "New",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "saveChanges": "Save Changes",
+    "saving": "Saving...",
+    "addTranslation": "Add Translation",
+    "removeTranslation": "Remove Translation",
+    "currentImage": "Current Image",
+    "confirmDelete": "Are you sure you want to delete this event?",
+    "step1": {
+      "title": "Add New Event - Basic Information",
+      "date": "Date",
+      "venue": "Venue",
+      "image": "Event Image",
+      "nextButton": "Next: Add Translations"
+    },
+    "step2": {
+      "title": "Add Translations for Event",
+      "languageCode": "Language Code (e.g., en, ar)",
+      "eventName": "Event Name",
+      "details": "Details",
+      "price": "Price",
+      "category": "Category",
+      "addTranslation": "Add Another Translation",
+      "back": "Back",
+      "complete": "Complete Event Creation"
+    },
+    "editStep1": {
+      "title": "Edit Basic Information",
+      "date": "Event Date",
+      "venue": "Venue",
+      "image": "Event Image",
+      "imageHint": "Leave blank to keep current image",
+      "nextButton": "Next: Edit Translations"
+    },
+    "editStep2": {
+      "title": "Edit Translations",
+      "translation": "Translation",
+      "languageCode": "Language Code",
+      "eventName": "Event Name",
+      "details": "Event Details",
+      "price": "Price",
+      "category": "Category"
+    },
+    "errors": {
+      "fetchEvent": "Failed to load event data",
+      "createEvent": "Failed to create event",
+      "updateEvent": "Failed to update event",
+      "addTranslation": "Failed to add translation",
+      "updateTranslations": "Failed to update translations",
+      "deleteEvent": "Failed to delete event"
+    },
+    "success": {
+      "updateBasicInfo": "Event details updated successfully",
+      "updateTranslations": "Translations updated successfully",
+      "completeCreation": "Event created successfully",
+      "deleteEvent": "Event deleted successfully"
+    }
+  },"login": {
+    "title": "Login to EventMaster",
+    "subtitle": "Enter your details to access your account",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "noAccount": "Don't have an account?",
+    "registerHere": "Register here",
+    "forgotPassword": "Forgot password?",
+    "errors": {
+      "fillAllFields": "Please fill in all fields",
+      "invalidCredentials": "Invalid username or password",
+      "general": "Login failed. Please try again.",
+      "roleNotFound": "Role not found in token"
+    }
+  },
+  "register": {
+    "title": "Create an Account",
+    "subtitle": "Join EventMaster to discover amazing events",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Create a password",
+    "registerButton": "Register",
+    "registering": "Registering...",
+    "haveAccount": "Already have an account?",
+    "loginHere": "Login here",
+    "errors": {
+      "fillAllFields": "Please fill in all fields",
+      "passwordLength": "Password must be at least 6 characters",
+      "general": "Registration failed. Please try again."
+    }
+  }
+}

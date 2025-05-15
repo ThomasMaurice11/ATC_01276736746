@@ -1,0 +1,135 @@
+{
+"navbar": {
+"title": "ماستر الفعاليات",
+"login": "تسجيل الدخول",
+"register": "إنشاء حساب",
+"admin": "لوحة التحكم"
+},
+"home": {
+"title": "الفعاليات القادمة",
+"subtitle": "اكتشف تجربتك التالية",
+"noEvents": "لا توجد فعاليات حالياً",
+"seeMore": "عرض المزيد من الفعاليات",
+"moreDetails": "تفاصيل أكثر",
+"bookNow": "احجز الآن",
+"booked": "تم الحجز",
+"price": "السعر",
+"bookingSuccess": "تم حجز التذكرة بنجاح!",
+"bookingFailed": "فشل في حجز التذكرة",
+"filterByCategory": "تصفية حسب الفئة",
+    "categories": {
+      "all": "جميع الفئات",
+      "tech": "تكنولوجيا",
+      "art": "فن",
+      "music": "موسيقى",
+      "food": "طعام",
+      "business": "أعمال",
+      "sports": "رياضة",
+      "education": "تعليم"
+    },
+    "noEventsInCategory": "لا توجد فعاليات في فئة {category}",
+    "category": "الفئة",
+    "priceLabel": "السعر"  
+  
+},
+"event": {
+"description": "الوصف",
+"information": "معلومات",
+"category": "الفئة",
+"date": "التاريخ",
+"time": "الوقت",
+"venue": "المكان",
+"address": "العنوان"
+},
+"notFound": {
+"message": "الصفحة غير موجودة",
+"goHome": "العودة إلى الصفحة الرئيسية"
+},
+"eventDetails": {
+"description": "وصف الفعالية",
+"information": "معلومات الفعالية",
+"category": "الفئة",
+"date": "التاريخ",
+"time": "الوقت",
+"venue": "المكان",
+"price": "السعر",
+"bookNow": "احجز الآن",
+"booked": "تم الحجز",
+"booking": "جارٍ الحجز...",
+"addToCalendar": "أضف إلى التقويم",
+"noDescription": "لا يوجد وصف متاح",
+"untitled": "فعالية بدون عنوان",
+"fetchError": "فشل في تحميل تفاصيل الفعالية",
+"bookingError": "فشل في حجز التذكرة",
+"bookingSuccess": "تم حجز التذكرة بنجاح!",
+"notFound": "لم يتم العثور على الفعالية"
+},
+"adminEvents": {
+"title": "إدارة الفعاليات",
+"step1": {
+"title": "إضافة فعالية جديدة - معلومات أساسية",
+"date": "التاريخ",
+"venue": "المكان",
+"image": "صورة الفعالية",
+"nextButton": "التالي: إضافة الترجمات"
+},
+"step2": {
+"title": "إضافة ترجمات للفعالية",
+"languageCode": "رمز اللغة (مثال: ar، en)",
+"eventName": "اسم الفعالية",
+"details": "التفاصيل",
+"price": "السعر",
+"category": "الفئة",
+"addTranslation": "إضافة ترجمة أخرى",
+"back": "رجوع",
+"complete": "إكمال إنشاء الفعالية"
+},
+"currentEvents": "الفعاليات الحالية",
+"noEvents": "لم يتم العثور على فعاليات",
+"edit": "تعديل",
+"delete": "حذف",
+"confirmDelete": "هل أنت متأكد أنك تريد حذف هذه الفعالية؟",
+"errors": {
+"createEvent": "فشل في إنشاء الفعالية",
+"addTranslation": "فشل في إضافة الترجمة",
+"deleteEvent": "فشل في حذف الفعالية"
+}
+},"login": {
+    "title": "تسجيل الدخول إلى EventMaster",
+    "subtitle": "أدخل بياناتك للوصول إلى حسابك",
+    "username": "اسم المستخدم",
+    "usernamePlaceholder": "أدخل اسم المستخدم",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "loggingIn": "جارٍ تسجيل الدخول...",
+    "noAccount": "ليس لديك حساب؟",
+    "registerHere": "سجل هنا",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "errors": {
+      "fillAllFields": "الرجاء ملء جميع الحقول",
+      "invalidCredentials": "اسم المستخدم أو كلمة المرور غير صحيحة",
+      "general": "فشل تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+      "roleNotFound": "لم يتم العثور على الدور في الرمز المميز"
+    }
+  },
+  "register": {
+    "title": "إنشاء حساب",
+    "subtitle": "انضم إلى EventMaster لاكتشاف الأحداث المدهشة",
+    "username": "اسم المستخدم",
+    "usernamePlaceholder": "أدخل اسم المستخدم",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "إنشاء كلمة مرور",
+    "registerButton": "تسجيل",
+    "registering": "جارٍ التسجيل...",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "loginHere": "سجل الدخول هنا",
+    "errors": {
+      "fillAllFields": "الرجاء ملء جميع الحقول",
+      "passwordLength": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+      "general": "فشل التسجيل. يرجى المحاولة مرة أخرى."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+body.dark-mode {
+  background: #121212;
+  color: #f1f1f1;
+}
+
+.dark-mode .card {
+  background: #1e1e1e;
+  color: #f1f1f1;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+.dark-mode .text-muted {
+  color: #aaa !important;
+}
+
+.dark-mode .date-badge {
+  background: rgba(0,0,0,0.7);
+  color: white;
+}
+
+.dark-mode .detail {
+  border-color: #444;
+}
+
+.dark-mode .detail-label {
+  color: #aaa;
+}
