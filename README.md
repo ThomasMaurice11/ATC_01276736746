@@ -32,7 +32,20 @@ POST /login – Login with credentials.
 
 📅 Events (/api/Events) 
 GET / – Retrieve all events. 
-POST / – Create an event (multipart/form-data; includes Date, Venue, and ImageFile). 
-POST /{eventId}/translations – Add translations to an event. GET /{id} – Retrieve a specific event by ID. PUT /{id} – Update an event by ID (multipart form). DELETE /{id} – Delete an event by ID. PUT /UpdateTranslations/{id} – Update translations for an event.
 
-📆 Bookings (/api/Booking) POST / – Book an event by passing eventId as a query param. DELETE /{id} – Cancel booking by ID.
+POST / – Create an event (multipart/form-data; includes Date, Venue, and ImageFile). 
+
+POST /{eventId}/translations – Add translations to an event.
+
+GET /{id} – Retrieve a specific event by ID. 
+
+PUT /{id} – Update an event by ID (multipart form). 
+
+DELETE /{id} – Delete an event by ID. 
+
+PUT /UpdateTranslations/{id} – Update translations for an event.
+
+📆 Bookings (/api/Booking)
+POST / – Book an event by passing eventId as a query param.
+
+DELETE /{id} – Cancel booking by ID.
